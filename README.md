@@ -1,7 +1,7 @@
 # Slider
 
-## Simple JS App - [Demo](https://mve-drag-and-drop-js.vercel.app/)
+## Simple JS App - [Demo](https://mve-slider-var-js.vercel.app/)
 
 ### App Slider
 
-![Slider](screenshot/draganddrop.png 'Slider')
+![Slider](screenshot/slider.png 'Slider')
